@@ -1,0 +1,47 @@
+h2.roboto {
+	text-transform: none;
+}
+
+h2.roboto2 {
+	text-transform: none;
+	font-weight: normal;
+}
+
+p.roboto {
+	text-transform: none;
+}
+
+.intro.image-background .overlay {
+	background: #986dbd;
+	opacity: 0.8;
+}
+
+.intro.image-background {
+	background: url('../img/india.jpg') center center no-repeat;
+}
+
+.navbar-brand.scroll-to h4 {
+	text-transform: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+	text-transform: none;
+}
+
+.heading {
+	text-transform: none;	
+}
+
+.not-lead {
+	font-style: italic;
+}
+
+.box.box-services:hover {
+	-webkit-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.1);
+	box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.1);
+}
+
+.team-member h3 a {
+	text-transform: none;
+}
